@@ -65,4 +65,3 @@ Let's collaborate!
 - I'm looking collaboration on my personal projects and also love to make collaboration on any Front-end/Web or Unity projects
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=YinHk&repo=MyUnity_PaperJump)](https://github.com/anuraghazra/github-readme-stats)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=YinHk&repo=YinHk-Notes/javascript-cheatsheet-and-note)](https://github.com/anuraghazra/github-readme-stats)
