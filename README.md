@@ -3,6 +3,7 @@
 
 I am a Front End Developer/Web programmer from Hong Kong :hong_kong:, currently living in Toronto ON, Canada :canada:. I am looking for a new opportunity here.
 
+My hobby :books: : Playing video games, learning new tech and playing outdoor activities :bicyclist: .
 
 - :robot: I’m currently learning Python, TypeScript and Unity VR development.
 - :pencil2: I'm currently woking on serval projects including my personal projects and make contribution to open source projects.
