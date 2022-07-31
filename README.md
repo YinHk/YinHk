@@ -43,7 +43,9 @@ I am a Front End Developer/Web programmer from Hong Kong Now living in Toronto O
 </div>
 
 #### Stats
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=YinHk&show_icons=true&theme=highcontrast&count_private=true)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=YinHk&show_icons=true&theme=highcontrast&count_private=true) 
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=YinHk&layout=compact&langs_count=8)](https://github.com/anuraghazra/github-readme-stats)
 
 #### Recent projects
 - My npm package:
