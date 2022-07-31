@@ -44,13 +44,15 @@ I am a Front End Developer/Web programmer from Hong Kong Now living in Toronto O
 </div>
 
 ### Stats
-##### Github:
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=YinHk&show_icons=true&theme=highcontrast&count_private=true) 
+- **Github:**
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=YinHk&layout=compact&langs_count=8)](https://github.com/anuraghazra/github-readme-stats)
+   ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=YinHk&show_icons=true&theme=highcontrast&count_private=true) 
 
-##### Leetcode:
-![LeetCode Stats](https://leetcode.card.workers.dev/YinHk?theme=wtf&font=baloo&extension=activity&border=1)
+   [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=YinHk&layout=compact&langs_count=8)](https://github.com/anuraghazra/github-readme-stats)
+   
+- **Leetcode:**
+
+   ![LeetCode Stats](https://leetcode.card.workers.dev/YinHk?theme=wtf&font=baloo&extension=activity&border=1)
 
 ### Recent projects
 - My npm package:
