@@ -23,6 +23,22 @@ I am a Front End Developer/Web programmer from Hong Kong Now living in Toronto O
 [<img src="https://camo.githubusercontent.com/4e4f2f532755842fc9a89201da63437055929a6c5356d4ebc560c9e0f38ca007/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f4c6962726172792d52656475782d696e666f726d6174696f6e616c3f7374796c653d666c6174266c6f676f3d7265647578266c6f676f436f6c6f723d776869746526636f6c6f723d666663666432">](<LINK>)
 [<img src="https://camo.githubusercontent.com/00c5b1a632c599baf653a5b6e8b6c4a711e3f0612c1be56883f74ed1d0e5a3ac/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f4c6962726172792d4e6578742e6a732d696e666f726d6174696f6e616c3f7374796c653d666c6174266c6f676f3d6e6578742e6a73266c6f676f436f6c6f723d776869746526636f6c6f723d666663666432">](<LINK>)
 
+<div>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original-wordmark.svg" title="Java" alt="Java" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg" title="React" alt="React" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/spring/spring-original-wordmark.svg" title="Spring" alt="Spring" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/materialui/materialui-original.svg" title="Material UI" alt="Material UI" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/redux/redux-original.svg" title="Redux" alt="Redux " width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-plain-wordmark.svg"  title="CSS3" alt="CSS" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" title="HTML5" alt="HTML" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/firebase/firebase-plain-wordmark.svg" title="Firebase" alt="Firebase" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/gatsby/gatsby-original.svg" title="Gatsby"  alt="Gatsby" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg" title="MySQL"  alt="MySQL" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original-wordmark.svg" title="NodeJS" alt="NodeJS" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/amazonwebservices/amazonwebservices-plain-wordmark.svg" title="AWS" alt="AWS" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" **alt="Git" width="40" height="40"/>
+</div>
 
 #### Stats
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=YinHk&show_icons=true&theme=highcontrast&count_private=true)
