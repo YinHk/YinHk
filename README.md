@@ -10,7 +10,7 @@ I am a Front End Developer/Web programmer from Hong Kong Now living in Toronto O
 - :notebook: How to reach me: contact me by email ministudiowingyin@gmail.com
 
 
-#### Skills and Tech:
+### Skills and Tech:
 
 [<img src="https://camo.githubusercontent.com/06642681952b3a45b8b88c66876d7fbcf5fb57d46ae92c5033ed52df1de0ee05/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d52656163742d3631444246423f7374796c653d666c61742d737175617265266c6162656c436f6c6f723d626c61636b266c6f676f3d7265616374266c6f676f436f6c6f723d363144424642">](<LINK>)
 [<img src="https://camo.githubusercontent.com/3bd60b50ab71896ff3bd26b07f8be771e027b596313599d19fd9634f47478325/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d52656475782d3736344142433f7374796c653d666c61742d737175617265266c6162656c436f6c6f723d626c61636b266c6f676f3d7265647578266c6f676f436f6c6f723d373634414243">](<LINK>)
@@ -43,12 +43,16 @@ I am a Front End Developer/Web programmer from Hong Kong Now living in Toronto O
   <img src="https://github.com/devicons/devicon/blob/master/icons/unity/unity-original-wordmark.svg" title="Firebase" alt="Firebase" width="40" height="40"/>&nbsp;
 </div>
 
-#### Stats
+### Stats
+##### Github:
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=YinHk&show_icons=true&theme=highcontrast&count_private=true) 
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=YinHk&layout=compact&langs_count=8)](https://github.com/anuraghazra/github-readme-stats)
 
-#### Recent projects
+##### Leetcode:
+![LeetCode Stats](https://leetcode.card.workers.dev/YinHk?theme=wtf&font=baloo&extension=activity&border=1)
+
+### Recent projects
 - My npm package:
 https://www.npmjs.com/package/util-eventemitter
 - Spotify clone: 
@@ -60,8 +64,8 @@ https://github.com/YinHk-myProject/currency-exchange-app
 - Easy translator app:
 https://github.com/YinHk-myProject/easy-translator-app
 
-#### Collaboration
+### Collaboration
 Let's collaborate!
 - I'm looking collaboration on my personal projects and also love to make collaboration on any Front-end/Web or Unity projects
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=YinHk&repo=MyUnity_PaperJump)](https://github.com/anuraghazra/github-readme-stats)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=YinHk&repo=MyUnity_PaperJump)](https://github.com/MyUnity_PaperJump)
