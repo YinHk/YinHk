@@ -24,7 +24,7 @@ I am a Front End Developer/Web programmer from Hong Kong Now living in Toronto O
 [<img src="https://camo.githubusercontent.com/00c5b1a632c599baf653a5b6e8b6c4a711e3f0612c1be56883f74ed1d0e5a3ac/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f4c6962726172792d4e6578742e6a732d696e666f726d6174696f6e616c3f7374796c653d666c6174266c6f676f3d6e6578742e6a73266c6f676f436f6c6f723d776869746526636f6c6f723d666663666432">](<LINK>)
 
 
-#### My recent projects
+#### Recent projects
 - My npm package:
 https://www.npmjs.com/package/util-eventemitter
 - Spotify clone: 
