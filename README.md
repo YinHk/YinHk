@@ -59,6 +59,7 @@ My hobby :books: : Playing video games, learning new tech and playing outdoor ac
 ### Recent projects
 - My npm package:
 https://www.npmjs.com/package/util-eventemitter
+   [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=YinHk&repo=util-eventemitter)](https://www.npmjs.com/package/util-eventemitter)
 - Spotify clone: 
 https://github.com/It-dogs/spodify
 - Geolocator 3d: 
