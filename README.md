@@ -71,4 +71,5 @@ Let's collaborate!
 ### Other my repository pins
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=YinHk&repo=MyUnity_PaperJump)](https://github.com/YinHk-myProject/MyUnity_PaperJump)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=YinHk-Notes&repo=javascript-cheatsheet-and-note)](https://github.com/YinHk-Notes/javascript-cheatsheet-and-note)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=YinHk-Notes&repo=my-leetcode-solution](https://github.com/YinHk-myProgram/my-leetcode-solution)
+
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=YinHk-myProgram&repo=my-leetcode-solution)](https://github.com/YinHk-myProgram/my-leetcode-solution)
