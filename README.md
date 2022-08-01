@@ -66,16 +66,17 @@ My hobby :books: : Playing video games, learning new tech and playing outdoor ac
    [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=It-dogs&repo=spodify)](https://github.com/It-dogs/spodify)
 
 - Geolocator 3d: 
-https://github.com/YinHk-myProject/geolocator-3d-app
-    [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=YinHk-myProject&repo=geolocator-3d-app)](https://github.com/YinHk-myProject/geolocator-3d-app)
+
+   [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=YinHk-myProject&repo=geolocator-3d-app)](https://github.com/YinHk-myProject/geolocator-3d-app)
    
    
 - Currency converter app:
-https://github.com/YinHk-myProject/currency-exchange-app
-    [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=YinHk-myProject&repo=currency-exchange-app)](https://github.com/YinHk-myProject/currency-exchange-app)
+
+   [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=YinHk-myProject&repo=currency-exchange-app)](https://github.com/YinHk-myProject/currency-exchange-app)
 
 - Easy translator app:
-https://github.com/YinHk-myProject/easy-translator-app
+
+   [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=YinHk-myProject&repo=easy-translator-app)](https://github.com/YinHk-myProject/easy-translator-app)
 
 ### Collaboration
 Let's collaborate!
