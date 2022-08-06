@@ -63,7 +63,7 @@ My hobby :books: : Playing video games, learning new tech and playing outdoor ac
    [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=YinHk-myProject&repo=geolocator-3d-app)](https://github.com/YinHk-myProject/geolocator-3d-app)
    [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=YinHk-myProject&repo=currency-exchange-app)](https://github.com/YinHk-myProject/currency-exchange-app)
    [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=YinHk-myProject&repo=easy-translator-app)](https://github.com/YinHk-myProject/easy-translator-app)
-
+   
 ### Collaboration
 Let's collaborate!
 - I'm looking collaboration on my personal projects and also love to make collaboration on any Front-end/Web or Unity projects
@@ -72,4 +72,5 @@ Let's collaborate!
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=YinHk&repo=MyUnity_PaperJump)](https://github.com/YinHk-myProject/MyUnity_PaperJump)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=YinHk-Notes&repo=javascript-cheatsheet-and-note)](https://github.com/YinHk-Notes/javascript-cheatsheet-and-note)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=YinHk-myProgram&repo=my-leetcode-solution)](https://github.com/YinHk-myProgram/my-leetcode-solution)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=YinHk-myProgram&repo=algorithm)](https://github.com/YinHk-myProgram/algorithm)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=YinHk-myProgram&repo=algorithm)](https://github.com/YinHk-myProgram/algorithm)
