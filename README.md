@@ -13,6 +13,7 @@ My hobby :books: : Playing video games, learning new tech and playing outdoor ac
 - :notebook: How to reach me: contact me by email ministudiowingyin@gmail.com
 
 
+
 ### Skills and Tech:
 
 [<img src="https://camo.githubusercontent.com/06642681952b3a45b8b88c66876d7fbcf5fb57d46ae92c5033ed52df1de0ee05/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d52656163742d3631444246423f7374796c653d666c61742d737175617265266c6162656c436f6c6f723d626c61636b266c6f676f3d7265616374266c6f676f436f6c6f723d363144424642">](<LINK>)
